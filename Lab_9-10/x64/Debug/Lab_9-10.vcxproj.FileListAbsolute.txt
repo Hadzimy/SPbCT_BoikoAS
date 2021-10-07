@@ -1,0 +1,4 @@
+C:\Users\asboi\OneDrive\Документы\GitHub\SPbCT_YaschenkovIA\Lab_9-10\x64\Debug\Lab_9-10.vcxproj.AssemblyReference.cache
+C:\Users\asboi\OneDrive\Документы\GitHub\SPbCT_YaschenkovIA\Lab_9-10\x64\Debug\Lab910.MyForm.resources
+C:\Users\asboi\OneDrive\Документы\GitHub\SPbCT_YaschenkovIA\Lab_9-10\x64\Debug\Lab_9-10.vcxproj.GenerateResource.cache
+C:\Users\asboi\OneDrive\Документы\GitHub\SPbCT_YaschenkovIA\Lab_9-10\x64\Debug\Lab_9-10.exe
