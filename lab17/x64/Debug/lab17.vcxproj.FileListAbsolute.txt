@@ -1,0 +1,2 @@
+C:\Users\asboi\OneDrive\Рабочий стол\lab17\lab17\x64\Debug\lab17.vcxproj.AssemblyReference.cache
+C:\Users\asboi\OneDrive\Рабочий стол\lab17\lab17\x64\Debug\lab17.exe
